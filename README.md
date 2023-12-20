@@ -1,7 +1,6 @@
-print("im not aucustic")
-q1 = input("im special✨")
-if q1 == "nuh huh":
-  print("yeh heh")
+im not aucustic
+im special✨
+or just retarded (jk)
 
 
 <!---
